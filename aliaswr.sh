@@ -2,7 +2,7 @@
 
 alias_name=$1
 alias_desc=$2
-alias_path="/home/$USER/.bash_aliases"
+alias_path="/home/$USER/.aliases"
 
 usage_str="Usage: $0 [name] [\"value\"]"
 
